@@ -1,0 +1,1 @@
+@include('components.search_products_contents')
